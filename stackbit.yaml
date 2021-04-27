@@ -494,7 +494,7 @@ models:
         label: Image
         description: The image of the section
       - type: string
-        name: image_alt
+        name: image_alt_test
         label: Image alt text
         description: The alt text of the section image
       - type: text
