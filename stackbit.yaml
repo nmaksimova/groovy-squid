@@ -335,6 +335,8 @@ models:
         label: Title
         required: true
         description: The title of the tag
+      - name: ''
+        type: string
   page:
     type: page
     label: Page
