@@ -357,12 +357,6 @@ models:
     urlPath: /blog/{slug}
     label: Post
     layout: post
-    folder: blog
-    exclude:
-      - index.md
-      - category/**
-      - author/**
-      - tag/**
     fields:
       - type: string
         name: title
@@ -436,6 +430,8 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
+    singleInstance: true
+    file: ''
   advanced:
     type: page
     label: Advanced page
