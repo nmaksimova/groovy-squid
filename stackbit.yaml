@@ -359,7 +359,7 @@ models:
     layout: post
     fields:
       - type: string
-        name: title
+        name: titletest
         label: Title
         description: The title of the post
         required: true
