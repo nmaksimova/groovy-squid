@@ -430,6 +430,7 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
+    folder: blogtest
   advanced:
     type: page
     label: Advanced page
