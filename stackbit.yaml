@@ -430,8 +430,6 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-    singleInstance: true
-    file: ''
   advanced:
     type: page
     label: Advanced page
