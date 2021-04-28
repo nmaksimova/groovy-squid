@@ -338,7 +338,7 @@ models:
   page:
     type: page
     label: Page
-    layout: page_test
+    layout: page
     exclude:
       - blog/**/*
     fields:
