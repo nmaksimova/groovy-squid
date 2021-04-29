@@ -315,7 +315,7 @@ models:
         label: Title
         required: true
         description: The title of the category
-      - name: ''
+      - name: field1
         type: string
   tag:
     type: data
